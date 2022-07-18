@@ -1,0 +1,40 @@
+h1 {
+    font-family: monospace;
+    text-align: center;
+}
+#mv-foto {
+    float: left;
+    height: 250px;
+    padding: 10px;
+    background-color: #0A100D;
+}
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    left: 250px;
+    top: 200px;
+}
+body {
+    background-color:#D6D5C9;
+    padding: 10px;
+}
+.palavra-destaque {
+    background-color: #0A100D;
+    color: #D6D5C9;
+}
+.tamanho1 {
+    font-size: 1em;
+}
+.tamanho2 {
+    font-size: 1.25em;
+}
+.tamanho3 {
+    font-size: 1.5em;
+}
+.image-container {
+    height: 270px;
+}
+
+ul li:nth-child(odd) {
+    background-color: #A22C29;
+}
